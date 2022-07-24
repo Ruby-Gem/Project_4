@@ -1,4 +1,4 @@
-[![Ruby-Gem](https://circleci.com/gh/Ruby-Gem/Project_4?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![Ruby-Gem](https://circleci.com/gh/Ruby-Gem/Project_4.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
 # Deployment of the Boston House House Price model on Kubernetes for microservices
 using Kubernetes to deploy a machine learning model as a microservice. Through an API call, this container provides housing price predictions.
